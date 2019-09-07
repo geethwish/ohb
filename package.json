@@ -1,0 +1,68 @@
+{
+  "name": "react-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.17",
+    "@fortawesome/free-solid-svg-icons": "^5.8.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@material-ui/core": "^4.2.1",
+    "@material-ui/icons": "^4.2.1",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "chartist": "^0.11.2",
+    "chroma-js": "^2.0.3",
+    "country-list": "^2.1.1",
+    "currency-codes": "^1.5.0",
+    "currency-symbol-map": "^4.0.4",
+    "jquery": "^3.4.1",
+    "match-sorter": "^3.0.0",
+    "moment": "^2.24.0",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.6",
+    "react-bootstrap-sweetalert": "^4.4.1",
+    "react-chartist": "^0.13.3",
+    "react-chartjs-2": "^2.7.6",
+    "react-csv": "^1.1.1",
+    "react-dom": "^16.8.6",
+    "react-dropzone": "^10.1.5",
+    "react-dropzone-component": "^3.2.0",
+    "react-infinite-scroll-component": "^4.5.2",
+    "react-infinite-scroller": "^1.2.4",
+    "react-ladda": "^6.0.0",
+    "react-redux": "^7.1.0",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-select": "^2.4.3",
+    "react-select-currency": "^1.0.7",
+    "react-switchery": "^1.2.3",
+    "react-switchery-component": "0.0.7",
+    "react-table": "^6.10.0",
+    "react-toastify": "^5.3.1",
+    "react-toastr": "^3.0.0",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "superagent": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "react-alice-carousel": "^1.15.1"
+  }
+}

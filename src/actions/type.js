@@ -1,0 +1,2 @@
+export const FILTER_OFFERS = "FILTER_OFFERS";
+export const FILTER_PAYOUT_TYPE = "FILTER_PAYOUT_TYPE";

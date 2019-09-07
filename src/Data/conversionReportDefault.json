@@ -1,0 +1,10 @@
+{
+  "offers": true,
+  "AffiliateSubID1": true,
+  "Status": true,
+  "SourceID": true,
+  "Revenue": true,
+  "ClickID": true,
+  "ClickIP": true,
+  "DateTime": true
+}

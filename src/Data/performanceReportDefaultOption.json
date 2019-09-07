@@ -1,0 +1,7 @@
+{
+  "offers": true,
+  "revenue": true,
+  "clicks": true,
+  "conversions": true,
+  "cr": true
+}
