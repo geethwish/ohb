@@ -34,7 +34,7 @@
     "react-redux": "^7.1.0",
     "react-render-html": "^0.6.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-select": "^2.4.3",
     "react-select-currency": "^1.0.7",
     "react-switchery": "^1.2.3",
